@@ -9,3 +9,16 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.App {
+  margin: 2rem;
+}
+
+.App label {
+  display: inline-block;
+  margin-bottom: 1rem;
+}
+
+.App label button {
+  margin-left: 1rem;
+}
